@@ -3,4 +3,4 @@ This simple script helps to resolve an IP from a domain or subdomain and restric
 ## Requirements
 You will need to have a DynDNS setup. You can use something like NO-IP.
 ## Credits
-This script has been shared from my VPS hosting provider, [Pulseheberg](pulseheberg.com). All credits goes to them. 
+This script has been shared from my VPS hosting provider, [Pulseheberg](https://pulseheberg.com). All credits goes to them. 
